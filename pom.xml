@@ -8,6 +8,8 @@
     <artifactId>spring-cloud</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>ch2-1</module>
+        <module>ch3-1</module>
         <module>ch3-2</module>
     </modules>
     <packaging>pom</packaging>
