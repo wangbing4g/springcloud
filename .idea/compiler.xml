@@ -6,8 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ch3-2-eureka-client" />
         <module name="ch3-2-zuul-gateway" />
+        <module name="eureka-server" />
+        <module name="ch3-2-eureka-client" />
+        <module name="config-server" />
+        <module name="ch3-4" />
+        <module name="ch3-3-eureka-server" />
+        <module name="ch2-1-eureka-server" />
+        <module name="ch3-3-eureka-client" />
+        <module name="ch2-1-eureka-client" />
+        <module name="ch3-3-zuul-gateway" />
+        <module name="eureka-client" />
         <module name="ch3-2-eureka-server" />
       </profile>
     </annotationProcessing>
@@ -17,9 +26,19 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ch2-1-eureka-client" options="-parameters" />
+      <module name="ch2-1-eureka-server" options="-parameters" />
       <module name="ch3-2-eureka-client" options="-parameters" />
       <module name="ch3-2-eureka-server" options="-parameters" />
       <module name="ch3-2-zuul-gateway" options="-parameters" />
+      <module name="ch3-3" options="" />
+      <module name="ch3-3-eureka-client" options="-parameters" />
+      <module name="ch3-3-eureka-server" options="-parameters" />
+      <module name="ch3-3-zuul-gateway" options="-parameters" />
+      <module name="ch3-4" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="eureka-client" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
     </option>
   </component>
 </project>
