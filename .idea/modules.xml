@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-client/ch2-1-eureka-client.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1-eureka-client/ch2-1-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-server/ch2-1-eureka-server.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1-eureka-server/ch2-1-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-1/ch3-1.iml" filepath="$PROJECT_DIR$/ch3-1/ch3-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-3/ch3-3.iml" filepath="$PROJECT_DIR$/ch3-3/ch3-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-3/ch3-3-eureka-client/ch3-3-eureka-client.iml" filepath="$PROJECT_DIR$/ch3-3/ch3-3-eureka-client/ch3-3-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-3/ch3-3-eureka-server/ch3-3-eureka-server.iml" filepath="$PROJECT_DIR$/ch3-3/ch3-3-eureka-server/ch3-3-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-3/ch3-3-zuul-gateway/ch3-3-zuul-gateway.iml" filepath="$PROJECT_DIR$/ch3-3/ch3-3-zuul-gateway/ch3-3-zuul-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-4/ch3-4.iml" filepath="$PROJECT_DIR$/ch3-4/ch3-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-1/config-server/config-server.iml" filepath="$PROJECT_DIR$/ch3-1/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-1/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/ch3-1/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-1/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/ch3-1/eureka-server/eureka-server.iml" />
+    </modules>
+  </component>
+</project>
