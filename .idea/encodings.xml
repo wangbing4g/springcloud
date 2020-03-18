@@ -2,9 +2,21 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch2-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-1/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-1/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-1/eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch3-2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch3-2/ch3-2-eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch3-2/ch3-2-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch3-2/ch3-2-zuul-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-3/ch3-3-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-3/ch3-3-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-3/ch3-3-zuul-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-4" charset="UTF-8" />
   </component>
 </project>
