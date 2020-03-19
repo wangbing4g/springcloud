@@ -6,22 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ch3-2-zuul-gateway" />
-        <module name="eureka-server" />
-        <module name="ch3-2-eureka-client" />
-        <module name="config-server" />
-        <module name="ch3-4" />
-        <module name="ch3-3-eureka-server" />
-        <module name="ch2-1-eureka-server" />
-        <module name="ch3-3-eureka-client" />
         <module name="ch2-1-eureka-client" />
-        <module name="ch3-3-zuul-gateway" />
+        <module name="config-server" />
         <module name="eureka-client" />
         <module name="ch3-2-eureka-server" />
+        <module name="ch3-2-eureka-client" />
+        <module name="ch2-1-eureka-server" />
+        <module name="ch3-3-zuul-gateway" />
+        <module name="ch3-3-eureka-client" />
+        <module name="ch34" />
+        <module name="ch4-1-gzip" />
+        <module name="ch3-4-eureka-client" />
+        <module name="eureka-server" />
+        <module name="ch3-2-zuul-gateway" />
+        <module name="ch3-3-eureka-server" />
+        <module name="ch4-1-hello" />
+        <module name="ch3-4-eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ch-3-2-eureka-server" target="1.5" />
+      <module name="ch3-4" target="1.8" />
+      <module name="ch34" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -35,7 +41,13 @@
       <module name="ch3-3-eureka-client" options="-parameters" />
       <module name="ch3-3-eureka-server" options="-parameters" />
       <module name="ch3-3-zuul-gateway" options="-parameters" />
-      <module name="ch3-4" options="-parameters" />
+      <module name="ch3-4" options="" />
+      <module name="ch3-4-eureka-client" options="-parameters" />
+      <module name="ch3-4-eureka-server" options="-parameters" />
+      <module name="ch34" options="-parameters" />
+      <module name="ch4-1" options="" />
+      <module name="ch4-1-gzip" options="-parameters" />
+      <module name="ch4-1-hello" options="-parameters" />
       <module name="config-server" options="-parameters" />
       <module name="eureka-client" options="-parameters" />
       <module name="eureka-server" options="-parameters" />

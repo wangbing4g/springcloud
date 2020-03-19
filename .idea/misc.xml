@@ -11,11 +11,16 @@
         <option value="$PROJECT_DIR$/ch3-3/ch3-3-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/ch3-3/ch3-3-eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/ch3-3/ch3-3-zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ch3-4/ch3-4-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch3-4/ch3-4-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-1/ch4-1-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-1/ch4-1-gzip/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/ch-3-2-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch3-4/pom.xml" />
       </set>
     </option>
   </component>
