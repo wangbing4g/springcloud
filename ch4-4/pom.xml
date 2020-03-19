@@ -9,6 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <modules>
+        <module>ch4-4-eureka-server</module>
+        <module>ch4-4-feign-file-server</module>
+        <module>ch4-4-feign-upload-client</module>
+    </modules>
+
     <artifactId>ch4-6</artifactId>
     <packaging>pom</packaging>
 
