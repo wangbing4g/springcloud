@@ -15,6 +15,12 @@
         <option value="$PROJECT_DIR$/ch3-4/ch3-4-eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/ch4-1/ch4-1-hello/pom.xml" />
         <option value="$PROJECT_DIR$/ch4-1/ch4-1-gzip/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-5/ch4-5-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-5/ch4-5-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-5/ch4-5-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-6/ch4-4-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-6/ch4-4-feign-file-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-6/ch4-4-feign-upload-client/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
