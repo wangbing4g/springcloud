@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ch2-1-eureka-client" />
-        <module name="config-server" />
-        <module name="ch4-5-provider" />
+        <module name="ch3-3-eureka-client" />
         <module name="ch4-4-feign-upload-client" />
-        <module name="ch4-4-eureka-server" />
         <module name="ch4-4-feign-file-server" />
+        <module name="ch3-4-eureka-server" />
+        <module name="ch4-5-provider" />
+        <module name="ch5-1-eureka-server" />
+        <module name="ch2-1-eureka-client" />
+        <module name="ch5-1-client-a" />
         <module name="eureka-client" />
         <module name="ch4-5-eureka-server" />
         <module name="ch3-2-eureka-server" />
@@ -19,15 +21,16 @@
         <module name="ch2-1-eureka-server" />
         <module name="ch3-3-zuul-gateway" />
         <module name="ch4-5-consumer" />
-        <module name="ch3-3-eureka-client" />
+        <module name="ch5-1-ribbon-loadbalancer" />
         <module name="ch34" />
         <module name="ch4-1-gzip" />
         <module name="ch3-4-eureka-client" />
         <module name="eureka-server" />
-        <module name="ch3-2-zuul-gateway" />
+        <module name="ch4-4-eureka-server" />
         <module name="ch3-3-eureka-server" />
+        <module name="ch3-2-zuul-gateway" />
         <module name="ch4-1-hello" />
-        <module name="ch3-4-eureka-server" />
+        <module name="config-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -62,6 +65,10 @@
       <module name="ch4-5-consumer" options="-parameters" />
       <module name="ch4-5-eureka-server" options="-parameters" />
       <module name="ch4-5-provider" options="-parameters" />
+      <module name="ch5-1" options="-parameters" />
+      <module name="ch5-1-client-a" options="-parameters" />
+      <module name="ch5-1-eureka-server" options="-parameters" />
+      <module name="ch5-1-ribbon-loadbalancer" options="-parameters" />
       <module name="config-server" options="-parameters" />
       <module name="eureka-client" options="-parameters" />
       <module name="eureka-server" options="-parameters" />

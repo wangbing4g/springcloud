@@ -21,6 +21,9 @@
         <option value="$PROJECT_DIR$/ch4-6/ch4-4-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/ch4-6/ch4-4-feign-file-server/pom.xml" />
         <option value="$PROJECT_DIR$/ch4-6/ch4-4-feign-upload-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ch5-1/ch5-1-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch5-1/ch5-1-client-a/pom.xml" />
+        <option value="$PROJECT_DIR$/ch5-1/ch5-1-ribbon-loadbalancer/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
